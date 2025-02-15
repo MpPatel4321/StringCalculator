@@ -5,5 +5,5 @@ source "https://rubygems.org"
 gem "rake", "~> 13.0"
 
 gem "byebug"
-gem "rubocop", "~> 1.21"
+gem "rubocop"
 gem 'rspec'
